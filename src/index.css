@@ -18,7 +18,7 @@ body{
 }
 html {
   min-height: 100%;
-  background: #E8E8E8;
+  background: #000;
 }
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
