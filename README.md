@@ -1,5 +1,8 @@
 # Carousel
 
+![Captura de tela 2022-01-25 110812](https://user-images.githubusercontent.com/62665590/150994993-638a2727-1795-4844-9e72-08fb4c898d18.png)
+
+
 ## Sobre o Projeto
 
 Um carousel simples, utilizando SWR Data Fetching para fazer a requisição.
